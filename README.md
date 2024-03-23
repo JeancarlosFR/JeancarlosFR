@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeancarlosFR
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, SQL, HTML and JS
 - 📫 Email:je.franco@duocuc.cl
 
 <!---
